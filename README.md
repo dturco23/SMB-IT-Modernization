@@ -1,2 +1,16 @@
-# SMB-IT-Modernization
-Professional SMB infrastructure modernization project focused on network segmentation, security, scalability, storage, and operational standardization.
+# SMB IT Modernization
+
+Professional SMB infrastructure modernization project focused on:
+
+- Network segmentation
+- Infrastructure standardization
+- Security improvements
+- Storage modernization
+- Wireless redesign
+- Scalability planning
+- Rack infrastructure
+- Operational documentation
+
+## Status
+
+Planning / Architecture Phase
